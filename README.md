@@ -3,7 +3,11 @@
 |-|
 |![momentum(totoro)](https://github.com/user-attachments/assets/ebe115c0-14dd-45f7-9516-3ab552adf031)![momentum(totoro)1](https://github.com/user-attachments/assets/39b4e337-b088-4cf0-b7e0-6b56366f2867)|
 
-<h3 align="left">🛠 Used Language</h3>
+<h3 align="left">Introduction</h3>
+<div>Transform your browser into a beautifully designed tab that helps you feel calm, keep focus, and stay energized.</div>
+<div>This is a clone of the Chrome extension Momentum.</div>
+
+<h3 align="left">Used Language</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
@@ -14,12 +18,17 @@
   <a href="https://github.com/LEEJUNGKWAN1/momentum-clone" target="_blank">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 </div>
+    
+___
 
 |<H1 align="center">wordle clone</H1>|
 |-|
 |![wordle](https://github.com/user-attachments/assets/755ab293-612a-429e-9673-550d0670d738)|
 
-<h3 align="left">🛠 Used Language</h3>
+<h3 align="left">Introduction</h3>
+<div>Get 6 chances to guess a 5-letter word.</div>
+
+<h3 align="left">Used Language</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
@@ -30,3 +39,5 @@
   <a href="https://github.com/LEEJUNGKWAN1/wordle" target="_blank">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 </div>
+
+___
