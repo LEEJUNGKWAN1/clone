@@ -12,9 +12,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+<div align="right">
+  <a href="https://github.com/LEEJUNGKWAN1/momentum-clone" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+    
 <h1></h1>
 <br>
 <h1></h1>
+
 <H1>wordle clone</H1>
 
 ![wordle](https://github.com/user-attachments/assets/755ab293-612a-429e-9673-550d0670d738)
@@ -27,4 +34,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+<div align="right">
+  <a href="https://github.com/LEEJUNGKWAN1/wordle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+    
 <h1></h1>
