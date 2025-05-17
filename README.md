@@ -1,8 +1,7 @@
-<h1></h1>
-<h1>momentum-clone(Totoro ver.)</h1>
 
-![momentum(totoro)](https://github.com/user-attachments/assets/ebe115c0-14dd-45f7-9516-3ab552adf031)
-![momentum(totoro)1](https://github.com/user-attachments/assets/39b4e337-b088-4cf0-b7e0-6b56366f2867)
+|<h1 align="center">momentum-clone(Totoro ver.)</h1>|
+|-|
+|![momentum(totoro)](https://github.com/user-attachments/assets/ebe115c0-14dd-45f7-9516-3ab552adf031)![momentum(totoro)1](https://github.com/user-attachments/assets/39b4e337-b088-4cf0-b7e0-6b56366f2867)|
 
 <h3 align="left">🛠 Used Language</h3>
 <div align="left">
@@ -16,13 +15,9 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 </div>
 
-<h1></h1>
-<br>
-<h1></h1>
-
-<H1>wordle clone</H1>
-
-![wordle](https://github.com/user-attachments/assets/755ab293-612a-429e-9673-550d0670d738)
+|<H1 align="center">wordle clone</H1>|
+|-|
+|![wordle](https://github.com/user-attachments/assets/755ab293-612a-429e-9673-550d0670d738)|
 
 <h3 align="left">🛠 Used Language</h3>
 <div align="left">
@@ -35,5 +30,3 @@
   <a href="https://github.com/LEEJUNGKWAN1/wordle" target="_blank">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 </div>
-    
-<h1></h1>
