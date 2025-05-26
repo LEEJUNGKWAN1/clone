@@ -1,4 +1,4 @@
-|<h1 align="center">Momentum-Clone(Totoro ver.)</h1>|
+|<h1 align="center">Momentum Clone(Totoro ver.)</h1>|
 |-|
 |![momentum(totoro)](https://github.com/user-attachments/assets/ebe115c0-14dd-45f7-9516-3ab552adf031)![momentum(totoro)1](https://github.com/user-attachments/assets/39b4e337-b088-4cf0-b7e0-6b56366f2867)|
 
@@ -21,7 +21,7 @@
     
 ___
 
-|<H1 align="center">Wordle-Clone</H1>|
+|<H1 align="center">Wordle Clone</H1>|
 |-|
 |![wordle](https://github.com/user-attachments/assets/755ab293-612a-429e-9673-550d0670d738)|
 
