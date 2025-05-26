@@ -14,6 +14,7 @@
 </div>
 
 <div align="right">
+  🔗
   <a href="https://github.com/LEEJUNGKWAN1/momentum-clone" target="_blank">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 </div>
@@ -35,6 +36,7 @@ ___
 </div>
 
 <div align="right">
+  🔗
   <a href="https://github.com/LEEJUNGKWAN1/wordle" target="_blank">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 </div>
