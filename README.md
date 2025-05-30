@@ -16,7 +16,7 @@
     
 <div align="right">
   Learn more 🔗
-  <a href="https://github.com/LEEJUNGKWAN1/momentum-clone" target="_blank">
+  <a href="https://github.com/LEEJUNGKWAN1/movie-app" target="_blank">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 </div>
     
