@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white">
 </div>
+
+<h3 align="left">Distribution site</h3>
+
+GitHubPages(https://LEEJUNGKWAN1.github.io/movie-app)
     
 <div align="right">
   Learn more 🔗
